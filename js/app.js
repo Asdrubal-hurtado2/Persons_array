@@ -1,4 +1,4 @@
-const persons = ['']
+const persons = []
 persons.push('Asdrubal')
 persons.push('Cachete')
 persons.push('Miguel')
